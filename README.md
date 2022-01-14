@@ -6,7 +6,7 @@ Progeny Debian Box - Front |  Progeny Debian Box - Back
 :-------------------------:|:-------------------------:
 ![](progeny-front.png)  |  ![](progeny-back.png)
 
-- Content: several CDs, Manual (Printed Book), Floppy Disks
+- Content: 4 CDs, Manual (Printed Book), 2 (Bootup) Floppy Disks
 - License: the license information can be found on the given disks and sources
 
 
