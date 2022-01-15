@@ -57,4 +57,4 @@ Progeny Debian includes support and services:
 - 30-day telephone installation support
 - 90-day subscription to the Progeny Service Network
 
-www.progeny.com (ceased operations April 30, 2007, read: [Archive-Link](https://web.archive.org/web/20070506131659/http://www.progeny.com/))
+www.progeny.com (ceased operations 2007-04-30, read: [Archive-Link](https://web.archive.org/web/20070506131659/http://www.progeny.com/))
