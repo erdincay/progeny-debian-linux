@@ -13,7 +13,7 @@ Progeny Debian Box - Front |  Progeny Debian Box - Back
 
 # The Strength of Debian. The Power of Progeny.
 
-## About Progeny" Linux Systems
+## About Progeny Linux Systems
 Led by lan Murdock, the founder of Debian, Progeny is built by leading Debian developers, operating system experts, and experienced Linux executives. Progeny is committed to the future of the Debian project and Open Source. 
 
 ## Built on Debian
