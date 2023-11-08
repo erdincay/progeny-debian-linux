@@ -5,6 +5,13 @@ Ian Murdock's Progeny Debian GNU/Linux - the ultimate version of GNU/Linux
 - Content: 4 CDs, Manual (Printed Book), 2 (Bootup) Floppy Disks
 - License: the license information can be found on the given disks and sources
 
+## Download
+
+- [Installation Disk (ISO)](https://github.com/erdincay/progeny-debian-linux/releases/download/release-version-1/installation.iso)
+- [Extras Disk (ISO)](https://github.com/erdincay/progeny-debian-linux/releases/download/release-version-1/extras.iso)
+- [Sources 1 Disk (ISO)](https://github.com/erdincay/progeny-debian-linux/releases/download/release-version-1/sources1.iso)
+- [Sources 2 Disk (ISO)](https://github.com/erdincay/progeny-debian-linux/releases/download/release-version-1/sources2.iso)
+
 ## The Strength of Debian. The Power of Progeny.
 
 ## About Progeny Linux Systems
