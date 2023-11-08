@@ -1,4 +1,4 @@
-## PROGENY DEBIAN LINUX by Ian Murdock
+## PROGENY DEBIAN LINUX (Version 1.0 Errata) by Ian Murdock
 
 Ian Murdock's Progeny Debian GNU/Linux - the ultimate version of GNU/Linux
 
