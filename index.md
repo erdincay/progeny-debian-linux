@@ -1,5 +1,7 @@
 ## PROGENY DEBIAN LINUX by Ian Murdock
 
+*"Rather than being developed by one isolated individual or group, as other distributions of Linux have been developed in the past, Debian is being developed openly in the spirit of Linux and GNU."* – Ian Murdock, The Debian Manifesto (1994)
+
 Progeny Debian Box - Front |  Progeny Debian Box - Back
 :-------------------------:|:-------------------------:
 ![](progeny-front.png)  |  ![](progeny-back.png)
